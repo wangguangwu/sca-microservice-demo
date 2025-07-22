@@ -1,0 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: test
+
+nacos:
+  namespace: ed3d69c0-a86a-41fb-9b91-9c883cab8963

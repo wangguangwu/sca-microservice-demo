@@ -1,0 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+nacos:
+  namespace: 77131124-ac93-494f-b31b-7f7dc82c71b2

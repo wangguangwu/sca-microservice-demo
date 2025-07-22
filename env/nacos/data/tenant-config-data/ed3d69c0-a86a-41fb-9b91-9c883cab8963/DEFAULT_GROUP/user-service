@@ -1,0 +1,4 @@
+user:
+  name: 测试用户
+  level: VIP
+  feature-enabled: false

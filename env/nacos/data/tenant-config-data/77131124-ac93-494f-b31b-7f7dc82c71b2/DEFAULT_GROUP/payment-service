@@ -1,0 +1,4 @@
+payment:
+  currency: CNY
+  retry-max: 1
+  timeout-ms: 3000

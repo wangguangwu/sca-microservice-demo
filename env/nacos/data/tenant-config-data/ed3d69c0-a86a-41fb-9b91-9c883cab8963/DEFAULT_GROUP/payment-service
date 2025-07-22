@@ -1,0 +1,4 @@
+payment:
+  currency: USD
+  retry-max: 2
+  timeout-ms: 5000

@@ -1,0 +1,4 @@
+order:
+  max-per-user: 10
+  auto-cancel-minutes: 30
+  feature-flash-sale: true

@@ -1,0 +1,4 @@
+user:
+  name: 正式用户
+  level: SUPER-VIP
+  feature-enabled: true

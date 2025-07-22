@@ -1,0 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+nacos:
+  namespace: 09362b4c-a72e-4941-bb52-cace073e9b1c
